@@ -20,6 +20,7 @@ The following acceptance criteria had to be met prior to moving to PROD:
 2. Google: https://www.google.com/search?q=password+generator+javascript&sxsrf=ALiCzsYkPNGW47xN7FyAxFlshIE4Gy68iw%3A1670781724220&ei=HBuWY_aADcenqtsPyfeY2Ag&oq=password+generator+ajav&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgcIABCABBANMgcIABCABBANMgcIABCABBANMgcIABCABBANMgcIABCABBANMgcIABCABBANMgcIABCABBANMgcIABCABBANMgcIABCABBANMgcIABCABBANOgoIABBHEOkEELADOgcIABCwAxBDOggIABCABBCxAzoLCAAQgAQQsQMQgwE6BQgAEIAEOgUIIRCgAUoECEEYAEoECEYYAFDDA1i4CGCjE2gBcAF4AIABa4gB0wOSAQMzLjKYAQCgAQHIAQrAAQE&sclient=gws-wiz-serp
 3. Youtube: https://www.youtube.com/results?search_query=password+generator+javascript
 4. FreeCodeAcademy: https://forum.freecodecamp.org/t/javascript-password-generator/325969
+5. w3 Schools - media rule css: https://www.w3schools.com/cssref/css3_pr_mediaquery.php
 
 
 ### License/Disclaimer
