@@ -6,16 +6,14 @@ var lowerCaseArray = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l"
 var upperCaseArray = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];  
 var numberArray = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
 
-
 var generateBtn = document.querySelector("#generate");
 
 function generatePassword() {
   console.log("Test: Generate Button Clicked")
 }
 
-// Add event listener and to  generate button
+// Add event listener and togenerate button
 generateBtn.addEventListener("click", writePassword);
-
 
 // #password input
 function writePassword() {
@@ -40,7 +38,7 @@ for(var i = 0; i < characterLength; i++) {
 }
 return password;
 }
-
+// getPrompts function with if statements to satisfy T/F boolean or return user to add. prompts
 function getPrompts() {
   choiceArray = [];
   
