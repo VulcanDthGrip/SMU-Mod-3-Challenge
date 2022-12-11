@@ -2,7 +2,7 @@
 
 Password allows users to enter specific character lengths, special characters and numbers to generate a password. 
 
-This project included a current html template and the beginning script.js to code. 
+This project included a current html template and the beginning script.js to code. This was challenging as I had to look up several differenct resourced to understand the algrithim and how to code it to get the correct results. Used the exmaple provided and played with the css until I was able correctly match what was provided.
 
 ## **Acceptance Criteria
 The following acceptance criteria had to be met prior to moving to PROD:
